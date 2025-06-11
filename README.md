@@ -2,7 +2,7 @@
 
 This repository contains Python code and simulation setups for our paper:
 
-📄 **Title**: Data-Driven Risk-Averse Safe Control for Nonlinear Parameter-Varying Systems—Minimum-Variance Design  
+📄 **Title**: Data-Driven Risk-Averse Safe Control for Nonlinear Parameter-Varying Systems
 📅 **Published in**: IEEE Control Systems Letters, vol. 8, pp. 2649–2655, 2024  
 🔗 [DOI: 10.1109/LCSYS.2024.3509819](https://doi.org/10.1109/LCSYS.2024.3509819)
 
