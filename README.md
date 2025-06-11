@@ -4,7 +4,7 @@ This repository contains Python code and simulation setups for our paper:
 
 📄 **Title**: Data-Driven Risk-Averse Safe Control for Nonlinear Parameter-Varying Systems
 📅 **Published in**: IEEE Control Systems Letters, vol. 8, pp. 2649–2655, 2024  
-🔗 [DOI: 10.1109/LCSYS.2024.3509819](https://doi.org/10.1109/LCSYS.2024.3509819)
+🔗 [DOI: 10.1109/LCSYS.2024.3509813](https://doi.org/10.1109/LCSYS.2024.3509813)
 
 ---
 
@@ -66,12 +66,12 @@ For questions or collaboration, contact:
 If you use this repository, please cite:
 ```bibtex
 @article{esmaeili2024data,
-  title={Data-Driven Risk-Averse Safe Control for Nonlinear Parameter-Varying Systems—Minimum-Variance Design},
+  title={Data-Driven Risk-Averse Safe Control for Nonlinear Parameter-Varying Systems},
   author={Esmaeili, Babak and Modares, Hamidreza},
   journal={IEEE Control Systems Letters},
   volume={8},
-  pages={2649--2655},
+  pages={2649--2654},
   year={2024},
-  doi={10.1109/LCSYS.2024.3509819}
+  doi={10.1109/LCSYS.2024.3509813}
 }
 ```
